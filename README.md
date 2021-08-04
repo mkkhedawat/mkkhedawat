@@ -21,18 +21,18 @@ const manishKhedawat = {
 };
 ```
 
-<div style="text-align:center; margin-bottom:50px" > 
+<div align="center"> 
 <h3>Let's connect ! <h3>
 
-<a href="https://linkedin.com/in/mkkhedawat/" target="_blank" style="margin-right: 30px">
-<img alt="Linkedin" width="32" src="assets/icon-linkedin.png" />
+<a href="https://linkedin.com/in/mkkhedawat/" target="_blank">
+<img alt="Linkedin" height="40" src="assets/icon-linkedin.png" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:writetomansa@gmail.com">
-<img alt="Email" width="38" src="assets/icon-email.png" />
+<img alt="Email" height="50" src="assets/icon-email.png" />
 </a>
 
 </div>
 
-
-<div style="text-align:center" ><img src="https://profile-counter.glitch.me/{mkkhedawat}/count.svg"/></div>
+<br/><br/>
+<div align="center" ><img src="https://profile-counter.glitch.me/{mkkhedawat}/count.svg"/></div>
