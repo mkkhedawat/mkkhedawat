@@ -6,7 +6,7 @@
 ```javascript
 const manishKhedawat = {
     pronouns: "he" | "him",
-    currentRole: "lead software developer, Target",
+    currentRole: "lead engineer, Target",
     aliases: ["full-stack developer", "open-source contributor", "security professional"],
     code: ["java", "javascript", "typescript", "HTML", "CSS", "python"],
     technologies: {
@@ -14,7 +14,7 @@ const manishKhedawat = {
             js: ["react", "materialUI"]
         },
         backEnd: {
-            js: ["nodeJS", "expressJS"],
+            js: ["nodeJS", "expressJS", "nestJS"],
             java: ["springBoot"]
         }
     }
