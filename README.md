@@ -6,7 +6,6 @@
 ```javascript
 const manishKhedawat = {
     pronouns: "he" | "him",
-    currentRole: "lead engineer, Target",
     aliases: ["full-stack developer", "open-source contributor", "security professional"],
     code: ["java", "javascript", "typescript", "HTML", "CSS", "python"],
     technologies: {
@@ -16,6 +15,16 @@ const manishKhedawat = {
         backEnd: {
             js: ["nodeJS", "expressJS", "nestJS"],
             java: ["springBoot"]
+        },
+        scripting: {
+            sh: ["zx", "bash", "python"],
+        },
+        databases: {
+            db: ["mongo", "postgres", "mysql", "cassandra"],
+        },
+        devOps: {
+            ci: ["drone", "github actions", "travis", "jenkins"],
+            cd: ["chef", "docker"]
         }
     }
 };
