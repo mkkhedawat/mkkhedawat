@@ -7,13 +7,13 @@
 const manishKhedawat = {
     pronouns: "he" | "him",
     aliases: ["full-stack developer", "open-source contributor", "security professional"],
-    code: ["java", "javascript", "typescript", "HTML", "CSS", "python"],
+    code: ["java", "javascript", "typescript", "html", "css", "python"],
     technologies: {
         frontEnd: {
-            js: ["react", "materialUI"]
+            js: ["react", "nextJS", "materialUI"]
         },
         backEnd: {
-            js: ["nodeJS", "expressJS", "nestJS", "deno"],
+            js: ["nodeJS", "deno", "expressJS", "nestJS"],
             java: ["springBoot"]
         },
         scripting: {
@@ -25,11 +25,14 @@ const manishKhedawat = {
         },
         messaging: {
             queue: ["kafka"]
-        }
+        },
         databases: {
             sql: ["postgres", "mysql"],
             nonSQL: ["mongo", "cassandra", "redis"],
             bigData: ["hive"]
+        },
+        chatBots: {
+            slack: ["bolt", "flottbot"]
         },
         devOps: {
             ci: ["drone", "github actions", "travis", "jenkins", "vela"],
