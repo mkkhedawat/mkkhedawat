@@ -19,7 +19,13 @@ const manishKhedawat = {
         scripting: {
             sh: ["zx", "bash", "python"]
         },
-        messaging: ["kafka"],
+        appDevelopment: {
+            android: ["native", "flutter"],
+            desktop: ["electronJS"],
+        },
+        messaging: {
+            queue: ["kafka"]
+        }
         databases: {
             sql: ["postgres", "mysql"],
             nonSQL: ["mongo", "cassandra", "redis"],
