@@ -17,7 +17,7 @@ const manishKhedawat = {
             java: ["springBoot"]
         },
         scripting: {
-            sh: ["zx", "bash", "python"]
+            linux: ["zx", "bash", "python"]
         },
         appDevelopment: {
             android: ["native", "flutter"],
