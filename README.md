@@ -13,19 +13,26 @@ const manishKhedawat = {
             js: ["react", "materialUI"]
         },
         backEnd: {
-            js: ["nodeJS", "expressJS", "nestJS"],
+            js: ["nodeJS", "expressJS", "nestJS", "deno"],
             java: ["springBoot"]
         },
         scripting: {
-            sh: ["zx", "bash", "python"],
+            sh: ["zx", "bash", "python"]
         },
+        messaging: ["kafka"],
         databases: {
-            db: ["mongo", "postgres", "mysql", "cassandra"],
+            sql: ["postgres", "mysql"],
+            nonSQL: ["mongo", "cassandra", "redis"],
+            bigData: ["hive"]
         },
         devOps: {
-            ci: ["drone", "github actions", "travis", "jenkins"],
-            cd: ["chef", "docker"]
+            ci: ["drone", "github actions", "travis", "jenkins", "vela"],
+            cd: ["chef", "docker"],
+            dataVisualization: ["kibana", "grafana"]
         }
+    },
+    certifications: {
+        security: ["certified ethical hacker"]
     }
 };
 ```
