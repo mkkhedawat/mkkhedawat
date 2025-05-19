@@ -21,7 +21,7 @@ const manishKhedawat = {
         },
         appDevelopment: {
             android: ["native", "flutter"],
-            desktop: ["electronJS"],
+            desktop: ["electronJS"]
         },
         messaging: {
             queue: ["kafka"]
@@ -38,7 +38,12 @@ const manishKhedawat = {
             ci: ["drone", "github actions", "travis", "jenkins", "vela"],
             cd: ["chef", "docker"],
             dataVisualization: ["kibana", "grafana"]
-        }
+        },
+        genAi: {
+            frameworks: ["langChain", "langGraph"],
+            largeLanguageModels: ["gpt-4x"],
+            textEmbeddingModels: ["text-embedding-3-x"]
+        },
     },
     certifications: {
         security: ["certified ethical hacker"]
