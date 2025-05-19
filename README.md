@@ -7,7 +7,7 @@
 const manishKhedawat = {
     pronouns: "he" | "him",
     aliases: ["full-stack developer", "open-source contributor", "security professional"],
-    code: ["java", "javascript", "typescript", "html", "css", "python"],
+    code: ["java", "javascript", "typescript", "html", "css", "python", "golang"],
     technologies: {
         frontEnd: {
             js: ["react", "nextJS", "materialUI"]
