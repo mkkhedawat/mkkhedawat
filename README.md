@@ -41,6 +41,7 @@ const manishKhedawat = {
         },
         genAi: {
             frameworks: ["langChain", "langGraph"],
+            protocols: ["MCP"],
             largeLanguageModels: ["gpt-4x"],
             textEmbeddingModels: ["text-embedding-3-x"]
         },
