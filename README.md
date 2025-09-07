@@ -40,7 +40,7 @@ const manishKhedawat = {
             dataVisualization: ["kibana", "grafana"]
         },
         genAi: {
-            frameworks: ["langChain", "langGraph"],
+            frameworks: ["langChain", "langGraph", "Google ADK"],
             protocols: ["MCP"],
             largeLanguageModels: ["gpt-4x"],
             textEmbeddingModels: ["text-embedding-3-x"]
