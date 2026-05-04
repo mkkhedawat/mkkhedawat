@@ -1,7 +1,5 @@
 
 # Hey There ! <img width="30" src="assets/blob_excited.gif" alt="excited blob" />
-![Header](assets/header.jpeg "Header")
-
 
 ```javascript
 const manishKhedawat = {
@@ -40,9 +38,9 @@ const manishKhedawat = {
             dataVisualization: ["kibana", "grafana"]
         },
         genAi: {
-            frameworks: ["langChain", "langGraph", "Google ADK"],
+            frameworks: ["langChain", "langGraph", "Google ADK", "OpenAI agents"],
             protocols: ["MCP"],
-            largeLanguageModels: ["gpt-4x"],
+            largeLanguageModels: ["gpt-5x"],
             textEmbeddingModels: ["text-embedding-3-x"]
         },
     },
@@ -64,6 +62,3 @@ const manishKhedawat = {
 </a>
 
 </div>
-
-<br/><br/>
-<div align="center" ><img src="https://profile-counter.glitch.me/{mkkhedawat}/count.svg"/></div>
